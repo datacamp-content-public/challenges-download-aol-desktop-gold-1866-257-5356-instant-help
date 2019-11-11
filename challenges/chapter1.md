@@ -3,7 +3,7 @@ title: example_python_challenges
 output: html_document
 ---
 
-## [MC] Choose the right answer
+## It was quite difficult to obtain the personal information in the earlier versions of AOL Desktop Gold. But this has become simpler with the latest version. The new version comes with a file system that helps store and organize your email on the hard drive of your machine so that even when you're offline, you can read your messages.This desktop application makes it simple and fast to import data from an older version of AOL Desktop.
 
 ```yaml
 type: MultipleChoiceChallenge
@@ -11,111 +11,32 @@ key: 115qFYuQ4pPlifqZze0QkDORLwVufanGIfC
 ```
 
 `@assignment1`
-Which command explicitly imports the `pyplot` subpackage from `matplotlib`?
+It was quite difficult to obtain the personal information in the earlier versions of AOL Desktop Gold. But this has become simpler with the latest version. The new version comes with a file system that helps store and organize your email on the hard drive of your machine so that even when you're offline, you can read your messages.This desktop application makes it simple and fast to import data from an older version of AOL Desktop.
 
 `@assignment2`
-Assuming `matplotlib.pyplot` is imported as `plt`, which command displays the current figure?
+**Import your mail and toolbar icons from the previous edition of AOL Desktop **
 
-`@assignment3`
-Assuming `matplotlib.pyplot` is imported as `plt`, which command clears the current figure?
+Step 1: Begin AOL Desktop Gold 
+
+Step 2: Sign in with your screen name 
+
+Step 3: Click the File button at the top left corner of the monitor 
+
+Step 4: Select Import Wizard 
+
+Step 5: Click OK to begin the import process 
+
+Step 6: Click OK to verify 
+
+Step 7: Close after completion.
+
 
 `@options1`
-- `import matplotlib as pyplot`
-- `import pyplot from matplotlib`
-- [`import matplotlib.pyplot as plt`]
-- `from pyplot import plt`
-- `import pyplot as plt`
+**AOL Desktop Gold** is an upgrade to the older version of the program along with some of the latest features such as an improved web browser, contacts and preferences store on AOL servers, import wizard, streamlined installation process, two screen verification, personalized texts and fonts as well as automatic updates. For using these high-end features, you will need to **Download Aol Desktop Gold Software.**
+
+Besides the interesting features that have already been listed, the gold users are provided with chat rooms. This program can also be rendered as a default browser. Even with the aid of the browser password manager, your personal credentials can be safe and protected without fear of losing them. All OS systems support the new version of this program, be it Windows or IOS.
 
 `@options2`
-- `matplotlib.pyplot.show()`
-- `matplotlib.show()`
-- `pyplot.show()`
-- `plt.show`
-- [`plt.show()`]
+You will need **Install AOL Desktop Gold** to have full access to the interesting list of features. If you experience any problems while importing your personal information in the new version, then you must attempt to follow the troubleshooting steps in Download AOL Desktop Gold, the same order as they are provided in this blog, or else you may contact on a toll-free number **@+1 (866) 257-5356 AOL Email Support** team and get a instant solution to your issue.
 
-`@options3`
-- `matplotlib.pyplot.clear()`
-- `plt.clear()`
-- `plt.clf`
-- `plt.clear`
-- [`plt.clf()`]
-
----
-
-## [OC] popping lists
-
-```yaml
-type: OutputChallenge
-key: 6258197972
-```
-
-`@context`
-
-
-`@code1`
-```{python}
-l1 = {{$l1}}
-p = l1.pop()
-print(p)
-```
-
-`@code2`
-```{python}
-l1 = {{$l1}}
-p = l1.pop({{n}})
-print(p)
-```
-
-`@pre_challenge_code`
-```{python}
-import dccpu.generators as g
-```
-
-`@variables`
-```yaml
-l1:
-- '!expr g.int_vector(size=6)'
-n:
-- '!expr g.rand_int(hi=5)'
-```
-
----
-
-## [BC] concatenating lists
-
-```yaml
-type: BlanksChallenge
-key: 8a565a9166
-```
-
-`@context`
-
-
-`@code1`
-```{python}
-l1 = {{l1}}
-l2 = {{l2}}
-print(l1 {{_op}} l2)
-```
-
-`@pre_challenge_code`
-```{python}
-import dccpu.generators as g
-```
-
-`@variables`
-```yaml
-l1:
-- '!expr g.int_vector(size=3)'
-l2:
-- '!expr g.int_vector(size=3)'
-op:
-- '+'
-```
-
-`@distractors`
-```yaml
-op:
-- '-'
-- '*'
-```
+**Source:** - **[Download AOL Gold Desktop](https://www.errorcodeexpert.com/aol-desktop-gold/)**
