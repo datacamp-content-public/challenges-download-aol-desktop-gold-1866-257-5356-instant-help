@@ -3,7 +3,7 @@ title: example_python_challenges
 output: html_document
 ---
 
-## It was quite difficult to obtain the personal information in the earlier versions of AOL Desktop Gold. But this has become simpler with the latest version. The new version comes with a file system that helps store and organize your email on the hard drive of your machine so that even when you're offline, you can read your messages.This desktop application makes it simple and fast to import data from an older version of AOL Desktop.
+## Download AOL Desktop Gold @1866-257-5356-Instant Help
 
 ```yaml
 type: MultipleChoiceChallenge
